@@ -1,0 +1,4 @@
+Hello from sample.txt!
+This file exists so you can test the read_file tool.
+The secret word is "pineapple".
+The other secret word is "mango".
